@@ -1,4 +1,4 @@
- YR   MON  TOTAL   CLIM-A   ANOM 
+ YR  MON   TOTAL   CLIM-A  ANOM 
 2020  10   25.46   26.72   -1.25
 2020  11   25.28   26.70   -1.42
 2020  12   25.45   26.60   -1.15
